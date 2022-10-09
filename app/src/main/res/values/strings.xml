@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Edu Buddy</string>
+    <string name="select_class">Select Class:</string>
+    <string name="select_subject">Select Subject:</string>
+    <string name="select_unit">Select Unit/Chapter:</string>
+    <string name="subject_english">ENGLISH</string>
+    <string name="class_5">CLASS 5</string>
+    <string name="answer_edittext_hint">Type your answer here</string>
+    <string name="submit_answer">Submit</string>
+    <string name="next">Next</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="ask_action">What do you want to do?</string>
+    <string name="button_learn">Learn</string>
+    <string name="button_practice">Practice</string>
+</resources>

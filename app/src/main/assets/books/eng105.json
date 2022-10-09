@@ -1,0 +1,818 @@
+{
+  "subject_code": "eng",
+  "class_code": "105",
+  "number_of_units": 25,
+  "unit1001": 21,
+  "unit1002": 18,
+  "unit1003": 30,
+  "unit1004": 15,
+  "unit1005": 11,
+  "unit1006": 15,
+  "unit1007": 9,
+  "unit1008": 13,
+  "unit1009": 25,
+
+  "eng105_u1001_1": {
+    "type": 1,
+    "question": "Jessica is going to _________ .",
+    "answers": ["Chattogram"]
+  },
+  "eng105_u1001_2": {
+    "type": 1,
+    "question": "Jessica is from ____________ .",
+    "answers": ["United Kingdom"]
+  },
+  "eng105_u1001_3": {
+    "type": 1,
+    "question": "Sima is from ___________ .",
+    "answers": ["Sylhet"]
+  },
+  "eng105_u1001_4": {
+    "type": 1,
+    "question": "Sima is going to __________ .",
+    "answers": ["Sylhet"]
+  },
+  "eng105_u1001_5": {
+    "type": 1,
+    "question": "Sima's train is leaving in ____________ .",
+    "answers": ["10 minutes", "ten minutes", "Ten minutes"]
+  },
+  "eng105_u1001_6": {
+    "type": 1,
+    "question": "Jessica is going to Chattogram with her ____________ .",
+    "answers": ["father", "Father"]
+  },
+  "eng105_u1001_7": {
+    "type": 1,
+    "question": "Why is Jessica going to Chattogram on ____________ with her father",
+    "answers": ["holiday", "Holiday"]
+  },
+  "eng105_u1001_8": {
+    "type": 1,
+    "question": "The expression \"May I introduce myself\" is used at the ___________ of a conversation.",
+    "answers": ["beginning", "Beginning"]
+  },
+  "eng105_u1001_9": {
+    "type": 1,
+    "question": "The expression \"Nice meeting you\" is used at the ___________ of a conversation.",
+    "answers": ["end", "End"]
+  },
+  "eng105_u1001_10": {
+    "type": 1,
+    "question": "Sima and Jessica are at a _________________ .",
+    "answers": ["railway station","Railway station"]
+  },
+  "eng105_u1001_11": {
+    "type": 1,
+    "question": "Sima and Jessica are at a book fair. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1001_12": {
+    "type": 1,
+    "question": "The expression \"See you\" is used at the ___________ of a conversation.",
+    "answers": ["end", "End"]
+  },
+  "eng105_u1001_13": {
+    "type": 1,
+    "question": "Where is the expression \"See you later\" is used at the ___________ of a conversation.",
+    "answers": ["end", "End"]
+  },
+  "eng105_u1001_14": {
+    "type": 1,
+    "question": "Sima and Tamal are in the ______________ .",
+    "answers": ["Town Hall Language Club"]
+  },
+  "eng105_u1001_15": {
+    "type": 1,
+    "question": "Sima and Tamal come to the Town Hall Language Club to _____________________ .",
+    "answers": ["practise speaking English", "Practise speaking English"]
+  },
+  "eng105_u1001_16": {
+    "type": 1,
+    "question": "The name of the new person in the Town Hall Language Club is __________ .",
+    "answers": ["Andy Smith"]
+  },
+  "eng105_u1001_17": {
+    "type": 1,
+    "question": "Andy Smith is reading a book about _____________ .",
+    "answers": ["Bangladesh"]
+  },
+  "eng105_u1001_18": {
+    "type": 1,
+    "question": "Andy Smith works with an NGO in India. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1001_19": {
+    "type": 1,
+    "question": "Tamal met Andy Smith at the ___________ .",
+    "answers": ["bookshop", "Bookshop"]
+  },
+  "eng105_u1001_20": {
+    "type": 1,
+    "question": "Sima wants to meet the new person to __________ with him.",
+    "answers": ["practise English", "Practise English"]
+  },
+  "eng105_u1001_21": {
+    "type": 1,
+    "question": "Sima's full name is ________ .",
+    "answers": ["Sima Zaman"]
+  },
+
+
+  "eng105_u1002_1": {
+    "type": 1,
+    "question": "Andy is going to the ___________ .",
+    "answers": ["book fair", "Book fair"]
+  },
+  "eng105_u1002_2": {
+    "type": 1,
+    "question": "Andy is going to the book fair to ___________ .",
+    "answers": ["buy books", "Buy books"]
+  },
+  "eng105_u1002_3": {
+    "type": 1,
+    "question": "Tamal is going to his ____________ house.",
+    "answers": ["grandmother's", "Grandmother's"]
+  },
+  "eng105_u1002_4": {
+    "type": 1,
+    "question": "Tamal is going to his grandmother's house to give her ___________ .",
+    "answers": ["medicine", "Medicine"]
+  },
+  "eng105_u1002_5": {
+    "type": 1,
+    "question": "Tamal can meet Andy at the _____________ .",
+    "answers": ["book fair", "Book fair"]
+  },
+  "eng105_u1002_6": {
+    "type": 1,
+    "question": "Tamal can meet Andy in an hour. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1002_7": {
+    "type": 1,
+    "question": "Tamal can meet Andy in half an hour. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1002_8": {
+    "type": 1,
+    "question": "Tamal's grandmother is _________ .",
+    "answers": ["fine", "Fine"]
+  },
+  "eng105_u1002_9": {
+    "type": 1,
+    "question": "Tamal's grandmother is sick. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1002_10": {
+    "type": 1,
+    "question": "Andy has ___________ colleagues.",
+    "answers": ["3", "three", "Three"]
+  },
+  "eng105_u1002_11": {
+    "type": 1,
+    "question": "Ms. Smith teaches _____________ .",
+    "answers": ["English"]
+  },
+  "eng105_u1002_12": {
+    "type": 1,
+    "question": "Ms. Smith teaches Mathematics. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1002_13": {
+    "type": 1,
+    "question": "We should use ___________ before men's names.",
+    "answers": ["Mr.", "Mr", "'Mr.'"]
+  },
+  "eng105_u1002_14": {
+    "type": 1,
+    "question": "We should use ______________ before women's names",
+    "answers": ["Mrs. or Ms.", "Mrs. or Ms", "'Mrs.' or 'Ms.'", "Ms. or Mrs.", "Ms. or Mrs", "'Ms.' or 'Mrs.'"]
+  },
+  "eng105_u1002_15": {
+    "type": 1,
+    "question": "'Ms.' tells you that a woman is married. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1002_16": {
+    "type": 1,
+    "question": "'Ms.' doesn't tell you if a woman is married or not. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1002_17": {
+    "type": 1,
+    "question": "'Mr.' tells you that a man is married. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1002_18": {
+    "type": 1,
+    "question": "'Mrs.' tells you that a woman is married. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1003_1": {
+    "type": 1,
+    "question": "Saikat Islam lives in __________ . ",
+    "answers": ["Bogura"]
+  },
+  "eng105_u1003_2": {
+    "type": 1,
+    "question": "Saikat's father's name is __________ .",
+    "answers": ["Mr. Rashedul Islam", "Rashedul Islam"]
+  },
+  "eng105_u1003_3": {
+    "type": 1,
+    "question": "Mr. Rashedul Islam is a __________ .",
+    "answers": ["banker", "Banker"]
+  },
+  "eng105_u1003_4": {
+    "type": 1,
+    "question": "Saikat's father's name is __________ .",
+    "answers": ["Mrs. Monwara Islam", "Monwara Islam"]
+  },
+  "eng105_u1003_5": {
+    "type": 1,
+    "question": "Saikat's mother is a school teacher. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1003_6": {
+    "type": 1,
+    "question": "Saikat's mother is a __________ .",
+    "answers": ["housewife", "Housewife"]
+  },
+  "eng105_u1003_7": {
+    "type": 1,
+    "question": "Monwara Islam enjoys __________ in her free time.",
+    "answers": ["sewing", "Sewing"]
+  },
+  "eng105_u1003_8": {
+    "type": 1,
+    "question": "Mrs. Monwara Islam never sells her dresses. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1003_10": {
+    "type": 1,
+    "question": "Saikat is in class _____ .",
+    "answers": ["5", "five", "Five"]
+  },
+  "eng105_u1003_11": {
+    "type": 1,
+    "question": "Saikat does well in his studies. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1003_12": {
+    "type": 1,
+    "question": "Saikat watches cartoons on TV everyday to __________ .",
+    "answers": ["improve his English"]
+  },
+  "eng105_u1003_14": {
+    "type": 1,
+    "question": "Saikat watches cartoons on his tablet. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1003_15": {
+    "type": 1,
+    "question": "Saikat likes books about animals, especially tigers and ________ .",
+    "answers": ["lions", "Lions"]
+  },
+  "eng105_u1003_16": {
+    "type": 1,
+    "question": "Saikat watches cartoons only because he enjoys them. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1003_17": {
+    "type": 1,
+    "question": "Saikat studies at ________ p.m.",
+    "answers": ["6", "six", "Six"]
+  },
+  "eng105_u1003_18": {
+    "type": 1,
+    "question": "Saikat _______ at 8 p.m.",
+    "answers": ["watches TV", "Watches TV"]
+  },
+  "eng105_u1003_19": {
+    "type": 1,
+    "question": "Saikat eats dinner at ________ p.m.",
+    "answers": ["9", "nine"]
+  },
+  "eng105_u1003_20": {
+    "type": 1,
+    "question": "Saikat's family eats dinner at ________ p.m.",
+    "answers": ["9", "nine"]
+  },
+  "eng105_u1003_21": {
+    "type": 1,
+    "question": "Saikat helps his mum at 11 p.m. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1003_22": {
+    "type": 1,
+    "question": "Saikat ___________ at 11 p.m.",
+    "answers": ["goes to bed", "Goes to bed"]
+  },
+  "eng105_u1003_23": {
+    "type": 1,
+    "question": "Saikat helps his mum at __________ p.m.",
+    "answers": ["10", "ten", "ten"]
+  },
+  "eng105_u1003_24": {
+    "type": 1,
+    "question": "Saikat's mother cooks at _______ p.m.",
+    "answers": ["6", "six", "Six"]
+  },
+  "eng105_u1003_25": {
+    "type": 1,
+    "question": "Saikat's mother __________ at 8 p.m.",
+    "answers": ["sews", "Sews"]
+  },
+  "eng105_u1003_26": {
+    "type": 1,
+    "question": "Saikat's mother wash dishes at 10 p.m. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1003_27": {
+    "type": 1,
+    "question": "Saikat's mother reads books at 11 p.m. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1003_28": {
+    "type": 1,
+    "question": "Saikat's mother watches TV at 11 p.m. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1003_29": {
+    "type": 1,
+    "question": "Mr. Rashedul Islam helps his wife at __________ p.m.",
+    "answers": ["10", "ten", "Ten"]
+  },
+  "eng105_u1003_30": {
+    "type": 1,
+    "question": "Saikat's father _________ at 6 p.m.",
+    "answers": ["reads", "Reads"]
+  },
+  "eng105_u1003_31": {
+    "type": 1,
+    "question": "Saikat's father watches TV at __________ p.m.",
+    "answers": ["8", "eight", "Eight"]
+  },
+  "eng105_u1003_32": {
+    "type": 1,
+    "question": "Saikat's father writes at 11 p.m. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1004_1": {
+    "type": 1,
+    "question": "Nasreen and Tamal are reporters for the ____________ .",
+    "answers": ["English Club Magazine"]
+  },
+  "eng105_u1004_2": {
+    "type": 1,
+    "question": "Nasreen and Tamal are reporters for the Prothom Alo. True or False?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1004_3": {
+    "type": 1,
+    "question": "Sima is in class _______ .",
+    "answers": ["5", "five", "Five"]
+  },
+  "eng105_u1004_4": {
+    "type": 1,
+    "question": "Sima likes to walk in the ____________ in her leisure.",
+    "answers": ["park", "Park"]
+  },
+  "eng105_u1004_5": {
+    "type": 1,
+    "question": "Sima's cousin lives in the ________ .",
+    "answers": ["UK", "United Kingdom"]
+  },
+  "eng105_u1004_6": {
+    "type": 1,
+    "question": "Biju is in class 5. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1004_7": {
+    "type": 1,
+    "question": "Swimming keeps Biju ________ .",
+    "answers": ["fit", "Fit"]
+  },
+  "eng105_u1004_8": {
+    "type": 1,
+    "question": "_____________ makes Biju happy.",
+    "answers": ["painting", "Painting"]
+  },
+  "eng105_u1004_9": {
+    "type": 1,
+    "question": "Biju likes magazines about ___________ .",
+    "answers": ["sports", "Sports"]
+  },
+  "eng105_u1004_10": {
+    "type": 1,
+    "question": "Sima loves reading funny stories of ________________ .",
+    "answers": ["Nasiruddin Hojja"]
+  },
+  "eng105_u1004_11": {
+    "type": 1,
+    "question": "A magazine about clothes is a business magazine. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1004_12": {
+    "type": 1,
+    "question": "A magazine about money and banking is a _____________ magazine.",
+    "answers": ["business", "Business"]
+  },
+  "eng105_u1004_13": {
+    "type": 1,
+    "question": "A wildlife magazine is about ___________ .",
+    "answers": ["animals", "Animals"]
+  },
+  "eng105_u1004_14": {
+    "type": 1,
+    "question": "A fashion magazine is about ____________ .",
+    "answers": ["clothes", "Clothes"]
+  },
+  "eng105_u1004_15": {
+    "type": 1,
+    "question": "A magazine about keeping fit and healthy is a __________ magazine.",
+    "answers": ["health", "Health"]
+  },
+  "eng105_u1005_1": {
+    "type": 1,
+    "question": "There are _______ seconds in a minute.",
+    "answers": ["60", "sixty", "Sixty"]
+  },
+  "eng105_u1005_2": {
+    "type": 1,
+    "question": "There are _______ minutes in an hour.",
+    "answers": ["60", "sixty", "Sixty"]
+  },
+  "eng105_u1005_3": {
+    "type": 1,
+    "question": "There are ________ hours in a day.",
+    "answers": ["24", "twenty four", "Twenty four"]
+  },
+  "eng105_u1005_4": {
+    "type": 1,
+    "question": "There are ________ days in a week.",
+    "answers": ["7", "seven", "Seven"]
+  },
+  "eng105_u1005_5": {
+    "type": 1,
+    "question": "There are 366 days in a _____________ .",
+    "answers": ["Leap Year"]
+  },
+  "eng105_u1005_6": {
+    "type": 1,
+    "question": "There are ________ days in a year.",
+    "answers": ["365", "three hundred sixty five", "three hundred and sixty five", "Three hundred sixty five",
+    "Three hundred and sixty five"]
+  },
+  "eng105_u1005_7": {
+    "type": 1,
+    "question": "May is the 4th month of the year. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1005_8": {
+    "type": 1,
+    "question": "The second month of the year is _____________ .",
+    "answers": ["February"]
+  },
+  "eng105_u1005_9": {
+    "type": 1,
+    "question": "The seventh month of the year is _____________ .",
+    "answers": ["July"]
+  },
+  "eng105_u1005_10": {
+    "type": 1,
+    "question": "What month is after May?",
+    "answers": ["June"]
+  },
+  "eng105_u1005_11": {
+    "type": 1,
+    "question": "What month is before October?",
+    "answers": ["September"]
+  },
+  "eng105_u1006_1": {
+    "type": 1,
+    "question": "There are ____________ levels in the  food pyramid.",
+    "answers": ["4", "four", "Four"]
+  },
+  "eng105_u1006_2": {
+    "type": 1,
+    "question": "The bottom level of the food pyramid fas food from protein and dairy. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1006_3": {
+    "type": 1,
+    "question": "Food made of grain gives us energy. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1006_4": {
+    "type": 1,
+    "question": "Rice, ruti and bread are at the bottom level of the food pyramid. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1006_5": {
+    "type": 1,
+    "question": "Potatoes are grains. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1006_6": {
+    "type": 1,
+    "question": "Fruit and vegetables help our __________ and our health.",
+    "answers": ["eyes", "Eyes"]
+  },
+  "eng105_u1006_7": {
+    "type": 1,
+    "question": "Fruit and vegetables don't have vitamins. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1006_8": {
+    "type": 1,
+    "question": "Fish and meat have ___________ .",
+    "answers": ["protein", "Protein"]
+  },
+  "eng105_u1006_9": {
+    "type": 1,
+    "question": "Beans and lentils have protein. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1006_10": {
+    "type": 1,
+    "question": "___________ and dairy make us strong",
+    "answers": ["protein", "Protein"]
+  },
+  "eng105_u1006_11": {
+    "type": 1,
+    "question": "____________ help our teeth and bones.",
+    "answers": ["Dairy products", "milk and eggs", "Milk and eggs"]
+  },
+  "eng105_u1006_12": {
+    "type": 1,
+    "question": "Dairy products are at the top of the food pyramid. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1006_13": {
+    "type": 1,
+    "question": "Fat and oil are at the top of the food pyramid. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1006_14": {
+    "type": 1,
+    "question": "Our bodies need a lot of fat and oil. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1006_15": {
+    "type": 1,
+    "question": "Fat and oil make food __________ .",
+    "answers": ["delicious", "Delicious"]
+  },
+  "eng105_u1007_1": {
+    "type": 1,
+    "question": "Ice cream and chocolate are vital for our bodies. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1007_2": {
+    "type": 1,
+    "question": "Nasreen doesn't eat ice cream regularly. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1007_3": {
+    "type": 1,
+    "question": "Nasreen eats fruit and __________ regularly",
+    "answers": ["vegetables", "Vegetables"]
+  },
+  "eng105_u1007_4": {
+    "type": 1,
+    "question": "___________ and bananas are Nasreen's favorite fruits.",
+    "answers": ["Pineapples"]
+  },
+  "eng105_u1007_5": {
+    "type": 1,
+    "question": "Carrots and ___________ are Sima's favorite vegetables.",
+    "answers": ["tomatoes", "Tomatoes"]
+  },
+  "eng105_u1007_6": {
+    "type": 1,
+    "question": "Sima doesn't like strawberries. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1007_7": {
+    "type": 1,
+    "question": "Sima likes bananas. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1007_8": {
+    "type": 1,
+    "question": "________ say how an action is done.",
+    "answers": ["Adverbs"]
+  },
+  "eng105_u1007_9": {
+    "type": 1,
+    "question": "The adverb usually comes _________ the verb.",
+    "answers": ["after", "After"]
+  },
+  "eng105_u1008_1": {
+    "type": 1,
+    "question": "Cough and sore throat are symptoms of the flu. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1008_2": {
+    "type": 1,
+    "question": "You should go to school even if you are ill. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1008_3": {
+    "type": 1,
+    "question": "You must not eat when you are ill. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1008_4": {
+    "type": 1,
+    "question": "Water and juice are better than soft drinks. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1008_5": {
+    "type": 1,
+    "question": "You should cover your ____________ while coughing sneezing.",
+    "answers": ["mouth and nose", "Mouth and nose", "nose and mouth", "Nose and mouth"]
+  },
+  "eng105_u1008_6": {
+    "type": 1,
+    "question": "While sneezing, you should use a _________ to cover your mouth and nose.",
+    "answers": ["tissue", "Tissue"]
+  },
+  "eng105_u1008_7": {
+    "type": 1,
+    "question": "Flu is not contagious. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1008_8": {
+    "type": 1,
+    "question": "You should use your own plate and glass if you have the flu. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1008_9": {
+    "type": 1,
+    "question": "Sima is warm because she has a fever. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1008_10": {
+    "type": 1,
+    "question": "Sima feels fine but she has a sore throat. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1008_11": {
+    "type": 1,
+    "question": "Sima didn't go to school because she wanted to stay at home. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1008_12": {
+    "type": 1,
+    "question": "Sima wrote to __________ about her illness.",
+    "answers": ["Jessica"]
+  },
+  "eng105_u1008_13": {
+    "type": 1,
+    "question": "Sima's doctor doesn't want her to eat. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1009_1": {
+    "type": 1,
+    "question": "Raju was in class _________ when there was a fire in his school.",
+    "answers": ["5", "five", "Five"]
+  },
+  "eng105_u1009_2": {
+    "type": 1,
+    "question": "Everyone in Raju's school panicked when there was a fire. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1009_3": {
+    "type": 1,
+    "question": "The teachers left the students in the school building. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1009_4": {
+    "type": 1,
+    "question": "The _________ helped the students to leave the building quietly and safely.",
+    "answers": ["teachers", "Teachers"]
+  },
+  "eng105_u1009_5": {
+    "type": 1,
+    "question": "The _____________ put out the fire.",
+    "answers": ["firefighters", "Firefighters"]
+  },
+  "eng105_u1009_6": {
+    "type": 1,
+    "question": "The teachers put out the fire. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1009_7": {
+    "type": 1,
+    "question": "Raju joined a volunteer fire department after ____________ .",
+    "answers": ["college", "College"]
+  },
+  "eng105_u1009_8": {
+    "type": 1,
+    "question": "Raju got a lot of money as a volunteer firefighter. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1009_9": {
+    "type": 1,
+    "question": "Raju works as a ___________ .",
+    "answers": ["firefighter", "Firefighter"]
+  },
+  "eng105_u1009_10": {
+    "type": 1,
+    "question": "Most of the time Raju's work is teaching new firefighters about safety. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1009_11": {
+    "type": 1,
+    "question": "Most of the time Raju's work is putting out fires. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1009_12": {
+    "type": 1,
+    "question": "Raju likes ___________ very much.",
+    "answers": ["teaching", "Teaching"]
+  },
+  "eng105_u1009_13": {
+    "type": 1,
+    "question": "Raju sometimes teaches new firefighers about ____________ .",
+    "answers": ["safety", "Safety"]
+  },
+  "eng105_u1009_14": {
+    "type": 1,
+    "question": "In case of a fire, students in a school shouldn't ___________ .",
+    "answers": ["panic", "Panic"]
+  },
+  "eng105_u1009_15": {
+    "type": 1,
+    "question": "In case of a fire, students should leave the building _____________ .",
+    "answers": ["quietly", "Quietly"]
+  },
+  "eng105_u1009_16": {
+    "type": 1,
+    "question": "Talking to students is a part of Raju's job. True or false?",
+    "answers": ["False", "false"]
+  },
+  "eng105_u1009_17": {
+    "type": 1,
+    "question": "Raju also likes teaching. True or false?",
+    "answers": ["True", "true"]
+  },
+  "eng105_u1009_18": {
+    "type": 1,
+    "question": "A _____________ sings.",
+    "answers": ["singer", "Singer"]
+  },
+  "eng105_u1009_19": {
+    "type": 1,
+    "question": "A film actor _________ in films.",
+    "answers": ["acts", "Acts"]
+  },
+  "eng105_u1009_20": {
+    "type": 1,
+    "question": "A _____________ makes dresses",
+    "answers": ["dressmaker", "Dressmaker"]
+  },
+  "eng105_u1009_21": {
+    "type": 1,
+    "question": "A fruit seller sells ___________ .",
+    "answers": ["fruit", "Fruit"]
+  },
+  "eng105_u1009_22": {
+    "type": 1,
+    "question": "A bus driver ___________ a bus.",
+    "answers": ["drives", "Drives"]
+  },
+  "eng105_u1009_23": {
+    "type": 1,
+    "question": "A ___________ writes stories or poems.",
+    "answers": ["writer", "Writer"]
+  },
+  "eng105_u1009_24": {
+    "type": 1,
+    "question": "A _____________ grows crops.",
+    "answers": ["farmer", "Farmer"]
+  },
+  "eng105_u1009_25": {
+    "type": 1,
+    "question": "A ____________ bakes bread.",
+    "answers": ["baker", "Baker"]
+  },
+  "eng105_u10010_1": {
+    "type": 1,
+    "question": "",
+    "answers": [""]
+  },
+  "eng105_u10010_2": {
+    "type": 1,
+    "question": "",
+    "answers": [""]
+  },
+  "eng105_u10010_3": {
+    "type": 1,
+    "question": "",
+    "answers": [""]
+  }
+}
